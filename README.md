@@ -1,3 +1,5 @@
+[![Build Status](https://volleynerd2.visualstudio.com/Learning/_apis/build/status/volleynerd.ContosoAir?branchName=master)](https://volleynerd2.visualstudio.com/Learning/_build/latest?definitionId=3&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
