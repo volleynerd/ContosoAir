@@ -2,6 +2,13 @@
 
 [![Build Status](https://volleynerd2.visualstudio.com/Learning/_apis/build/status/volleynerd.ContosoAir?branchName=master)](https://volleynerd2.visualstudio.com/Learning/_build/latest?definitionId=3&branchName=master)
 
+## This is Dan learning GitHub + Azure DevOps integration
+walkthrough is [located here](https://azuredevopslabs.com/labs/vstsextend/github-azurepipelines/)
+
+---
+
+(from here down is the contents from the README before it was forked)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
