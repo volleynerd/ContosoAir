@@ -5,6 +5,8 @@
 ## This is Dan learning GitHub + Azure DevOps integration
 walkthrough is [located here](https://azuredevopslabs.com/labs/vstsextend/github-azurepipelines/)
 
+causing a PR that's not linked to a Work Item (then will link manually)
+
 ---
 
 (from here down is the contents from the README before it was forked)
