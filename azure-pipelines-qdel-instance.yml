@@ -1,4 +1,5 @@
-name: 1.0.$(Rev:.r).99
+name: 1.0$(Rev:.r).99  # NOTE: the Rev part includes a dot, so dont add it yourself. Can also use date formatting if desired $(Date:yyyyMMdd)
+# more info ^^ https://docs.microsoft.com/en-us/azure/devops/pipelines/process/run-number?view=azure-devops&tabs=yaml
 
 pool:
   vmImage: 'ubuntu-16.04'
